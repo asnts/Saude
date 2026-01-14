@@ -1,7 +1,7 @@
 # Saude
 
 Esta página web é dedicada para auxiliar usuários de diversas faixas etárias sobre saúde e recomendações de uma alimentação saudável baseada em recomendações de nutricionistas.
-
+Pode ser utilizada por ONGS, unidades de saúde públicas e privadas. 
 
 Através desta página o usuário pode ter:
 
