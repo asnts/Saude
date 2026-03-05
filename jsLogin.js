@@ -6,6 +6,6 @@ function BTNenviar(){
         alert("Um dos campos está vazio!!!");
     }else{ 
         alert("Logado com sucesso!!");
-        window.location.href = "index.html";
+        window.location.href = "home.html";
     }
 }
