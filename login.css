@@ -1,0 +1,26 @@
+label{
+    margin: 2;
+}
+
+.p-rede{ 
+    margin: 0;
+}
+
+#redes{ 
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 10px;
+    border: 0.5px solid black;
+}
+
+.btn-primary{
+
+background-color: #5BA67B;
+    color: white;
+}
+
+
+.p-cadastro{ 
+    margin-top: 5px;
+    color: blue;
+}
