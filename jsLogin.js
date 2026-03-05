@@ -2,6 +2,8 @@ function BTNenviar(){
     var Email = document.getElementById("exampleInputEmail1").value;
     var  Senha = document.getElementById("exampleInputPassword1").value;
 
+    //teste 
+
     if(Email == "" || Senha == "" ){ 
         alert("Um dos campos está vazio!!!");
     }else{ 
